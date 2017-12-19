@@ -1,0 +1,5 @@
+package: github.com/fireworq/benchworker
+import:
+- package: golang.org/x/sync
+  subpackages:
+  - semaphore
